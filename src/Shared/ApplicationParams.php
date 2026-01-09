@@ -7,8 +7,8 @@ namespace App\Shared;
 final readonly class ApplicationParams
 {
     public function __construct(
-        public string $name = 'My Project',
+        public string $name = 'Control Assignments',
         public string $charset = 'UTF-8',
-        public string $locale = 'en',
+        public string $locale = 'es',
     ) {}
 }

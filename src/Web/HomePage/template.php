@@ -14,13 +14,13 @@ $this->setTitle($applicationParams->name);
 ?>
 
 <div class="text-center">
-    <h1>Hello!</h1>
+    <h1>Main Page</h1>
 
-    <p>Let's start something great with <strong>Yii3</strong>!</p>
+    <p>This main page was maden by Kevin Luciano</p>
 
     <p>
-        <a href="https://github.com/yiisoft/docs/tree/master/guide/en" target="_blank" rel="noopener">
-            <i>Don't forget to check the guide.</i>
+        <a href="https://github.com/kalg12" target="_blank" rel="noopener">
+            <i>Follow me on GitHub</i>
         </a>
     </p>
 </div>
