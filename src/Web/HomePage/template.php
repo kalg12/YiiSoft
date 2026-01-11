@@ -16,7 +16,7 @@ $this->setTitle($applicationParams->name);
 <div class="text-center">
     <h1>Main Page</h1>
 
-    <p>This main page was maden by Kevin Luciano</p>
+    <p>This main page was maden by Kevin Luciano, are you ready to learn?</p>
 
     <p>
         <a href="https://github.com/kalg12" target="_blank" rel="noopener">
